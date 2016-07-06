@@ -37,7 +37,6 @@
     <!-- Requests, Sharing and Graph API -->
     <script src="scripts/integration/requests.js"></script>
     <script src="scripts/integration/sharing.js"></script>
-    <script src="scripts/integration/graph_api.js"></script>
 
     <!-- App Events and Payments -->
     <script src="scripts/integration/app_events.js"></script>
