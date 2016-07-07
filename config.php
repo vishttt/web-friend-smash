@@ -8,6 +8,6 @@
     Developer site at https://developers.facebook.com/apps
 */
   $serverUrl = "https://zezis.herokuapp.com";
-  $appNamespace = "zezis";
+  $appNamespace = "zeziszezisgame";
   $appId = "887465754698483";
 ?>
