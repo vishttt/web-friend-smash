@@ -1,4 +1,4 @@
-<?php die; require 'config.php'; ?>
+<?php require 'config.php'; ?>
 <!DOCTYPE html>
 <html>
   <head>
